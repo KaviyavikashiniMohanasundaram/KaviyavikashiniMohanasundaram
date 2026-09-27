@@ -153,3 +153,65 @@ user-friendly property exploration.
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+# 👋 Hi, I'm Kaviyavikashini M
+
+### Computer Science & Design Graduate · Full-Stack Developer · UI/UX Designer · AI Enthusiast
+
+I build practical digital products where **development, design, and AI** come together.
+
+## 🚀 What I Do
+
+`Full-Stack Development` · `AI Applications` · `UI/UX Design` · `Problem Solving`
+
+**Design → Build → Learn → Improve**
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C · Java · JavaScript  
+**Web:** HTML · CSS · React.js · Node.js · Express.js · REST APIs  
+**Database:** MongoDB · SQL · DBMS  
+**AI/ML:** OpenAI · Deep Learning · OCR  
+**Design:** Figma · Framer · Sketch · Illustrator · Canva  
+**Tools:** Git · GitHub · Supabase · Lovable · Unity  
+
+## 💻 Featured Projects
+
+- **GenAI Invoice Assistant** — Python · OpenAI · Streamlit
+- **KEC Student Portal** — Figma · Framer · 150+ screens
+- **Travel Story Guide** — MERN Stack
+- **Tamil Scene Text Super-Resolution** — Deep Learning · OCR
+
+## 💼 Experience
+
+**AI Assisted Software Developer — RX100 Ventures**  
+`May 2026 – Aug 2026 · Bangalore`
+
+Worked on software development, feature implementation, testing, integration, and application issue resolution.
+
+## 🏆 Achievements
+
+- **1st Prize — 24-Hour UI/UX Hackathon**
+- Smart India Hackathon — Participant
+- Technical Paper Presentation — Participant
+
+## 📜 Certifications
+
+- MongoDB Certified Associate Developer
+- Version Control with Git and GitHub
+- JP Morgan Excel Certification
+
+## 👥 Leadership
+
+**Secretary — Computer Society of India, KEC**  
+**Newsletter Editor — Computer Science & Design Association**
+
+## 🔗 Connect
+
+[GitHub](https://github.com/KaviyavikashiniMohanasundaram) ·
+[LinkedIn](https://www.linkedin.com/in/kv05/) ·
+[Portfolio](https://kavivikam.netlify.app/) ·
+[LeetCode](https://leetcode.com/u/Kaviyavikashini_05/)
+
+---
+
+**Design → Build → Learn → Improve.**
