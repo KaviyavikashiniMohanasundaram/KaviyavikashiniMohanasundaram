@@ -50,19 +50,6 @@ My approach:
 
 <td width="45%">
 
-```text
-        IDEA
-          ↓
-       DESIGN
-          ↓
-        BUILD
-          ↓
-      AI / DATA
-          ↓
-        TEST
-          ↓
-        SHIP
-
 Development
 <p>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
